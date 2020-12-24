@@ -1,8 +1,8 @@
 package converter;
 
-public class XmlToJson {
+class XmlToJson implements Convert {
 
-    public static String convert(char[] toConvert) {
+    public String convert(char[] toConvert) {
         String tag = "";
         String content = "";
         boolean tagH = false;

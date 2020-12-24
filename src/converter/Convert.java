@@ -1,2 +1,5 @@
-package converter;public interface Convert {
+package converter;
+
+interface Convert {
+    String convert(char[] toConvert);
 }
