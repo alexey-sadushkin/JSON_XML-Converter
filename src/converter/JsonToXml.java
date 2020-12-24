@@ -1,6 +1,6 @@
 package converter;
 
-public class JsonToXmlConvert {
+public class JsonToXml {
 
     public static String convert(char[] toConvert) {
         String tag = "";
