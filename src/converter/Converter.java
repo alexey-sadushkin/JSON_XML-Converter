@@ -1,5 +1,2 @@
-package converter;
-
-interface Converter {
-
+package converter;public class Converter {
 }
